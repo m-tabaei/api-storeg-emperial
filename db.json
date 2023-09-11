@@ -63,7 +63,7 @@
       "price": 109.95,
       "description": "",
       "category": "men's clothing",
-      "image": "/img/place1.jpg",
+      "image": "./img/place1.jpg",
       "rating": {
         "rate": 3.9,
         "count": 120
