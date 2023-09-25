@@ -60,21 +60,21 @@
   "sliders":[
        {
       "id": 1,
-      "image": "./img/swiper1.jpg",
+      "image": "https://github.com/m-tabaei/api-storeg-emperial/blob/main/img/swiper1.jpg?raw=true",
       "alt": "2060",
       "title": "2060",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, reiciendis numquam at mollitia sit nam magnam doloremque optio iusto repudiandae eos sed blanditiis neque. Nisi rem corrupti facilis dolorum quis."
     },
     {
       "id": 2,
-      "image": "./img/swiper2.jpg",
+      "image": "https://github.com/m-tabaei/api-storeg-emperial/blob/main/img/swiper2.jpg?raw=true",
       "alt": "2060",
       "title": "2060",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, reiciendis numquam at mollitia sit nam magnam doloremque optio iusto repudiandae eos sed blanditiis neque. Nisi rem corrupti facilis dolorum quis."
     },
     {
       "id": 3,
-      "image": "./img/swiper3.jpg",
+      "image": "https://github.com/m-tabaei/api-storeg-emperial/blob/main/img/swiper3.jpg?raw=true",
       "alt": "2060",
       "title": "2060",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, reiciendis numquam at mollitia sit nam magnam doloremque optio iusto repudiandae eos sed blanditiis neque. Nisi rem corrupti facilis dolorum quis."
