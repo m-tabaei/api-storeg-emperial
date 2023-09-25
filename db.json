@@ -50,10 +50,34 @@
     }
   ],
   "slider": [
+ 
     {
       "id1": "./img/swiper1.jpg",
       "id2": "./img/swiper2.jpg",
       "id3": "./img/swiper3.jpg"
+    }
+  ],
+  "sliders":[
+       {
+      "id": 1,
+      "image": "./img/swiper1.jpg",
+      "alt": "2060",
+      "title": "2060",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, reiciendis numquam at mollitia sit nam magnam doloremque optio iusto repudiandae eos sed blanditiis neque. Nisi rem corrupti facilis dolorum quis."
+    },
+    {
+      "id": 2,
+      "image": "./img/swiper2.jpg",
+      "alt": "2060",
+      "title": "2060",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, reiciendis numquam at mollitia sit nam magnam doloremque optio iusto repudiandae eos sed blanditiis neque. Nisi rem corrupti facilis dolorum quis."
+    },
+    {
+      "id": 3,
+      "image": "./img/swiper3.jpg",
+      "alt": "2060",
+      "title": "2060",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, reiciendis numquam at mollitia sit nam magnam doloremque optio iusto repudiandae eos sed blanditiis neque. Nisi rem corrupti facilis dolorum quis."
     }
   ],
   "products": [
