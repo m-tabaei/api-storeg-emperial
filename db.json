@@ -297,5 +297,47 @@
         "count": 130
       }
     }
-  ]
+  ],
+  "menu":[
+    {
+        "id": 1,
+        "name": "home",
+        "link": "/",
+        "dropdown": []
+    },
+    {
+        "id": 2,
+        "name": "post",
+        "link": "/posts",
+        "dropdown": []
+    },
+    {
+        "id": 3,
+        "name": "product",
+        "link": "/products",
+        "dropdown": []
+    },
+    {
+        "id": 4,
+        "name": "contact",
+        "link": "www.google.com",
+        "dropdown": [
+            {
+                "id": 1,
+                "name": "gallery-1",
+                "link": "www.google.com"
+            },
+            {
+                "id": 2,
+                "name": "gallery-2",
+                "link": "www.google.com"
+            },
+            {
+                "id": 3,
+                "name": "gallery-3",
+                "link": "www.google.com"
+            }
+        ]
+    }
+]
 }
